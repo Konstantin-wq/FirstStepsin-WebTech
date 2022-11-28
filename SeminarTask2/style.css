@@ -1,0 +1,55 @@
+
+h1{
+    color: red;
+    text-align: center;
+    font-size: 52pt;
+    font-family: 'Orelega One', cursive;
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+    
+}
+
+h2{
+    text-align: center;
+    font-size: 38pt;
+}
+
+.image_border {
+    border: 10px solid #b34720;
+}
+
+.content{
+    font-size:  17pt;
+    font-weight: bold;
+    border: 3px solid black;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    
+}
+
+body{
+    background-image :url("images/background.jpg");
+    
+}
+
+
+#list{
+list-style-type:"\2744";
+font-size:  18pt;
+font-family: 'Russo One', sans-serif;
+}
+
+p{
+    font-size: 18pt;
+    font-family: 'Russo One', sans-serif;
+}
+
+table{
+    font-size: 16pt;
+    border: 2px solid black;
+    font-weight: bold;
+    
+}
+table tr td{
+    border: 2px solid black;
+}
